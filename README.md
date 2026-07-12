@@ -3,10 +3,8 @@
 <h1 align="center">Hi 👋, I'm Parth | Founder & Director, XDCyber Tech PVT LTD | CompTIA Security+ Certified</h1>
 <h3 align="center">Cybersecurity Engineer | Ethical Hacker | Defence-Tech Builder | Python & AI Developer</h3>
 
-## XDCyber Tech PVT LTD
-X = Xtreme |
-D = Defense |
-Cyber Tech = Cybersecurity Technology
+## 🛡️ XDCyber Tech PVT LTD
+X = Xtreme | D = Defense | Cyber Tech = Cybersecurity Technology
 
 `Built to Break Limits. Trained to Stop Threats.`
 `“Confidentiality. Integrity. Availability. Defended at the Xtreme.”`
@@ -19,66 +17,68 @@ Cyber Tech = Cybersecurity Technology
 
 ---
 
-## 🔹 About Me
+## 🔹 Who I Am
 <h5 align="center">
-Hey there, I'm Parth — a 22-year-old cybersecurity engineer, defence-tech builder, and MBA student specializing in cyber security at Chitkara University, Punjab.
+Hey there, I'm Parth — a 22-year-old cybersecurity engineer, defence-tech builder, and MBA student specializing in cyber security at Chitkara University.
 </h5>
 
 <h5 align="center">
-As the Founder and Director of XDCyber Tech PVT LTD, I specialize in VAPT, red teaming, and building in-house cybersecurity systems and defence technology in India for the Indian Military. 
+Operating out of Panchkula, Haryana, and New Delhi, India, I am the Founder and Director of XDCyber Tech PVT LTD. My primary mission revolves around delivering high-tier VAPT, executing advanced red teaming operations, and building specialized in-house cybersecurity systems specifically tailored for the Indian Military.
 </h5>
 
 <h5 align="center">
-I'm passionate about exploring complex systems, AI-based automation, and physical hardware. Beyond digital defense strategies, I actively develop custom weapon management systems using YOLO models and OpenCV, and design hardware prototypes utilizing advanced 3D modeling and printing.
+Beyond digital attack surfaces, I actively cross the bridge into physical hardware and AI automation. I have a deep passion for prototyping smart home electronics, designing custom microcomputing modules with Raspberry Pi 5 and ESP32 interface touchscreens, and utilizing 3D printing equipment like the Bambu Lab A1. Whether I'm editing a 3D model in Blender or Fusion 360, programming piezo transducers, or writing complex automation scripts, I am always pushing to expand my technical arsenal.
 </h5>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Focus & Innovations
 
-- 🔐 **CyberSecurity:** VAPT | Red Teaming | Ethical Hacking | Linux
-- 🤖 **Development:** Python | AI-based Inventory | OpenCV | YOLO Models
-- 🖨️ **Hardware:** IoT | 3D Printing (Bambu Lab A1) | Blender | Fusion 360
-- 🎮 **Hobbies:** Gaming | CTFs | Pentesting Labs | Audiophile
+- 🔐 **Offensive & Defensive Security:** Vulnerability Assessment & Penetration Testing (VAPT) | Red Teaming | Network Exploitation
+- 🎯 **Defence Technology:** Actively developing a custom automated weapon management system utilizing YOLO models, OpenCV, Python, and robust database integration.
+- 🤖 **Development & AI:** Python | AI-based Inventory Management | Automation Scripts
+- 🖨️ **Hardware Prototyping:** 3D Printing (Polylactic Acid/TPU) | Consumer Electronics | Single-board computing (Raspberry Pi 5, ESP32) | Piezo Transducers
+- 🌐 **Web Infrastructure:** Administering, configuring, and renewing web domains across multiple platforms.
+- 🎮 **Hobbies:** Gaming | Capture The Flag (CTFs) | Pentesting Labs | Audiophile | Nature Photography
 
 ---
 
-## 🔨 Tech Stack
+## 🔨 The Tech Arsenal
 
-**Languages & Frameworks:** ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
+**Programming & Frameworks:** ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
 
-**Cybersecurity Tools:** Burp Suite | Wireshark | Metasploit | Nmap | Hydra | Nikto | Nessus | Aircrack-ng | Kali Linux  
+**Cybersecurity Tools (The Offense/Defense Triad):** Burp Suite | Wireshark | Metasploit | Nmap | Hydra | Nikto | Nessus | Aircrack-ng | Kali Linux | Custom Threat Stop Mechanisms  
 
-**Hardware & AI Tools:** OpenCV | YOLO Models | Blender | Fusion 360 | Arduino | Raspberry Pi | ESP32
+**Hardware, 3D & AI Design:** OpenCV | YOLO Models | Blender | Fusion 360 | Arduino | Raspberry Pi | ESP32 | USB Camera Modules
 
-**Other Tools:** Git | Photoshop | Linux | VS Code |
-
----
-
-## 🔑 Certifications
-
-- ✅ **Certified Ethical Hacker (CEH) v13 AI Practical**
-- ✅ CompTIA Security+ Certified
-- ✅ Google – Intro to Cyber Security
-- ✅ StationX – 5 Cybersecurity & Ethical Hacking Certs
+**Other Development Tools:** Git | Photoshop | Linux | VS Code  
 
 ---
 
-## 🧠 Projects
+## 🔑 Certifications & Clearances
 
-1. 🎯 **Weapon Management System (AI/CV)** Custom automated inventory and tracking system utilizing YOLO models, Python, OpenCV, and robust database integration.
+- ✅ **Certified Ethical Hacker (CEH) v13 AI Practical** (Completed)
+- ✅ **CompTIA Security+** Certified
+- ✅ **Google** – Intro to Cyber Security
+- ✅ **StationX** – 5 Cybersecurity & Ethical Hacking Certs
 
-2. 🔍 **[Advanced Web Security Crawler](https://github.com/XD3Parth/Web-Security-Crawler)** Finds hidden links like `robots.txt`, `admin.php` using multi-threading.
+---
 
-3. 🔐 **[AES Encryption Tool](https://github.com/XD3Parth/Advanced-Encrypt-Decrypt)** AES-256 based file & text encryption with IV, base64, and key support.
+## 🧠 Open Source & Personal Projects
 
-4. 🔎 **[Port Scanner](https://github.com/XD3Parth/port-scanner)** Multithreaded port scanner to detect open ports on a target IP.
+1. 🔍 **[Advanced Web Security Crawler](https://github.com/XD3Parth/Web-Security-Crawler)** A multi-threaded reconnaissance tool built to unearth hidden directories like `robots.txt` and `admin.php`.
 
-5. 🔐 **[Caesar Cipher Tool](https://github.com/XD3Parth/Simple-Encrypt-Decrypt)** Simple encrypt/decrypt text using Caesar Cipher in Python.
+2. 🎯 **AI Weapon Management System (In Development)** A specialized tracking tool utilizing YOLO AI models and OpenCV to maintain real-time inventory and visual processing for security hardware.
+
+3. 🔐 **[AES Encryption Tool](https://github.com/XD3Parth/Advanced-Encrypt-Decrypt)** Robust AES-256 based file and text encryption utility featuring initialization vector (IV), base64, and key support.
+
+4. 🔎 **[Port Scanner](https://github.com/XD3Parth/port-scanner)** A highly efficient, multithreaded network mapping tool to detect open ports and map out target IP attack surfaces.
+
+5. 🔐 **[Caesar Cipher Tool](https://github.com/XD3Parth/Simple-Encrypt-Decrypt)** A lightweight, accessible Python script for teaching and applying fundamental cryptographic shifts.
 
 ---
 
@@ -96,18 +96,18 @@ I'm passionate about exploring complex systems, AI-based automation, and physica
 
 ---
 
-## 🧾 Support Me
+## 🧾 Support My Work
 
 - 💰 UPI: `xd3parth@aubank`
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Establish Connection
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/h62dsrd8SN)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Parthxd3/)  
-[![XDCyberTech](https://img.shields.io/badge/-xdcybertech.in-000?style=flat&logo=google-chrome&logoColor=white)](https://www.xdcybertech.in)  
-[![ParthXD7](https://img.shields.io/badge/-parthxd7.in-000?style=flat&logo=google-chrome&logoColor=white)](https://parthxd7.in)  
+[![Website - XDCyberTech](https://img.shields.io/badge/-xdcybertech.in-000?style=flat&logo=google-chrome&logoColor=white)](https://www.xdcybertech.in)  
+[![Website - ParthXD7](https://img.shields.io/badge/-parthxd7.in-000?style=flat&logo=google-chrome&logoColor=white)](https://parthxd7.in)  
 📧 Contact: **founder@xdcybertech.in**
 
 ---
@@ -117,16 +117,12 @@ I'm passionate about exploring complex systems, AI-based automation, and physica
 ---
 
 > ⚡ Fun fact: I'm *very* sarcastic 😄  
-> 🌐 Domains: [www.xdcybertech.in](https://www.xdcybertech.in) | [parthxd7.in](https://parthxd7.in)
+> 🌐 Base of Operations: [www.xdcybertech.in](https://www.xdcybertech.in) | [parthxd7.in](https://parthxd7.in)
 
-# 🛡️ XDCyber Tech PVT LTD — Built to Break Limits. Trained to Stop Threats. 💥
+# 🛡️ XDCyber Tech PVT LTD — Innovation Hub
 
-> “**Confidentiality. Integrity. Availability.** > 🛡️ *Defended at the Xtreme.*”
+> **X = Xtreme | D = Defense | Cyber Tech = Cybersecurity Technology**
 
----
+> **XDCyber Tech PVT LTD** is a premier cybersecurity-driven innovation lab based in India. We are strictly focused on building powerful, ethical, and open-source tools that push the boundaries of offensive and defensive security paradigms. We specialize in delivering uncompromising VAPT, adversarial red teaming, and advanced, robust in-house systems engineered from the ground up for the Indian Military. 
 
-### 🔰 What is **XDCyber Tech PVT LTD**?
-
-**X = Xtreme** **D = Defense** **Cyber Tech = Cybersecurity Technology** **(Formerly XD3Labs)**
-
-> **XDCyber Tech PVT LTD** is a cybersecurity-driven innovation lab focused on building powerful, ethical, and open-source tools that push the boundaries of what's possible in offensive and defensive security. We specialize in delivering top-tier VAPT, red teaming, and specialized in-house systems built in India for the Indian Military.
+> *Confidentiality. Integrity. Availability. Defended at the Xtreme.*
